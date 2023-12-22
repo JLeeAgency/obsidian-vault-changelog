@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "642da98d93fd1481",
+        "id": "6bafeb3bc0f5955b",
         "type": "tabs",
         "children": [
           {
-            "id": "1eec2b85d39a4fe4",
+            "id": "56debd0e59b96d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Records/Vault-Changelog2.md",
+                "file": "JL Agency Team Home Base/JLIA Team Home Base.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Records/Vault-Changelog2.md"
+                "file": "JL Agency Team Home Base/JLIA Team Home Base.md"
               }
             }
           },
@@ -219,7 +219,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1eec2b85d39a4fe4",
+  "active": "56debd0e59b96d71",
   "lastOpenFiles": [
     "JL Agency Team Home Base/JLIA Team Home Base.md",
     "Personal/Records/Vault-Changelog2.md",
