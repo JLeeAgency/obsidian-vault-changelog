@@ -1,0 +1,75 @@
+---
+created: 2023-12-13T12:59
+updated: 2023-12-13T13:00
+tags:
+  - personal-auto
+  - quoting
+  - guides
+  - how-tos
+  - training
+---
+- Before you start the quote in Ezlynx, get the listed information below:
+    - Complete Name
+    - Date of Birth
+    - Garaging and Mailing Address
+    - Driver’s License
+    - Employment Information
+    - A list of drivers need to be listed in the policy (get the same info as above)
+    - Contact Information
+        - Then hit Save
+        - You may continue by hitting **Go to Auto**
+    - Under **Select Carriers**, you may untick these carriers due to HURRICANE SEASON:
+        - Travelers
+        - Mercury
+        - Nationwide
+        - Foremost
+        - Bristol west
+        - Kemper Infinity
+        - Hartford - do not include this if the client doesn’t qualify for the 55-year-old age. 
+    - Under **Policy Information**, always put the information listed below:
+        - Prior Carrier
+        - Prior Expiration Date
+        - Prior Liability Limits
+        - Prior Policy Term
+        - Years with Prior Carrier (you can get it in by running a quote in Allstate)
+        - Years with Continuous Coverage
+
+  
+
+- Under **Drivers**, it should be pre-filled 
+    - Always put YES for Good Driver Discount if no accidents & incidents within 3-5 years (3-5 because it depends on the carrier)
+    - Always put YES for Driver Telematics/SmartRide/Right Track Discount
+- Under **Vehicles**, 
+- Make sure how many vehicles need to be listed in the policy, then get the needed information below:
+    - VIN, then click the glass icon
+    - To get the Purchase Date and Ownership Type, search the VIN in the **Vehicle Information Check**
+    - Daytime Running Lights is always YES
+    - Vehicle Usage
+    - Annual Mileage
+    - Vehicle Assignment:
+        - 100% for 1 driver only
+        - For 2 or more, put 100% to each vehicle per driver
+- Under **Incidents**
+- You may run a quote in All State to get the LIS Report and identify any losses
+- Under **Usage and Coverage**
+- You may get most of the info from Jon to identify what coverage the client wants
+    - Medical Payment is always **NONE** if not included in the request
+    - Personal Injury Protection is always **Basic**
+    - Wage Loss is always **Included**
+    - Personal Injury Protection Applies is always **Named Insured + Relatives**
+    - The Residence is, always check the property and take note of the county to search what type of county appraiser you need to search from
+        - Hendry or Charlotte County Property Appraiser
+        - Truepeoplesearch.com to get the APN
+    - Collision is always higher than Comprehensive
+        - This is the deductible 
+    - Towing is always **75** if not included in the request
+    - Dairyland - Choose **Reject** under Special Equipment 
+- Years with prior (you can get it in
+- Driver Telematics/SmartRide/Right Track Discount is always YES
+- Under **Carrier Questions**, just answer and ask Jon if that is not included
+- Click **Submit to Carriers** if there is no error
+- Run the quote in EzLynx
+- EzLynx is running the quote to all carriers and you will find an error message
+- There might be an error with NatGen, always choose the **Agency Plan Code - 3C** 
+- You might get an error with Safeco as well, you may rerun the quote on Safeco’s website. Just click Safeco and you will be rerouted to the website.
+- Go to Quote in Safeco, then search the client and click EDIT

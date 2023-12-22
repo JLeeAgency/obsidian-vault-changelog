@@ -1,0 +1,61 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "fine-tuning",
+              "displayTitle": "🛠️ Fine-Tuning and Review"
+            },
+            {
+              "tag": "finalized-quote",
+              "displayTitle": "📨 Final Quote Sent"
+            },
+            {
+              "tag": "closed-won",
+              "displayTitle": "🏆 Closed Won"
+            },
+            {
+              "tag": "closed-lost",
+              "displayTitle": "🪦 Closed Lost"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 0,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Opportunities"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": true,
+          "title": "Sales Pipeline",
+          "collapsedColumns": [
+            3,
+            4
+          ]
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

@@ -9,3 +9,7 @@ package-lock.json
 # build
 main.js
 *.js.map
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections

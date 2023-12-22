@@ -1,0 +1,184 @@
+---
+created: 2023-12-13T12:16
+updated: 2023-12-13T13:00
+tags:
+  - quoting
+  - personal-property
+  - guides
+  - how-tos
+  - training
+---
+# Process
+- Start by checking the prospect in the CRM
+- Get a copy of the Declaration Page or RCE in Google Drive if this is a Generated Lead
+- Gather the information such as: (you may put it in your note or mem, you will need it all throughout the quoting process)
+    - Complete Name
+    - Date of Birth
+    - Property Address
+    - Phone Number - Make sure this is accurate. You may verify this in Whitepages.
+    - Email Address - a lot of carriers offer paperless discounts nowadays
+- Go to EzLynx 
+- On the left side of the page, click the File button and choose **Create Applicant**
+- Don’t forget to identify the number of people in the household
+- Enter the required information such as:
+    - Complete Name
+    - Date of Birth
+    - Marital Status
+    - Driver’s License (if you have it or if you are quoting for a PACKAGE (home and auto))
+    - Education (if you don’t know this then choose Bachelor, you can always change this once confirmed. This is to get a better rate)
+    - Industry & Occupation - do not leave it blank because it does have an influence on their rating.
+        - Banking or Sales-Retail/Wholesale because Jon will confirm the information anyway. Use your best judgement and you may put Retired if the client is. 
+        - Retirees get discounts with a lot of homeowners companies and a lot of auto industry companies.
+            - In Florida, people usually retire at the age of 62, put the years
+    - Applicant Type - Prospect/Lead
+    - Customer Since - Date Today
+    - Assigned Producer - Jonathan Lee
+    - CSR - Jonathan Lee
+    - Lead Source: Lead Generator (Online)
+    - Property Address
+        - To identify what County Property Appraiser to use, go to Google and search the address, you can use Redfin and look for the county
+        - Make sure the correct address is verified by the USPS.
+    - Years At Address - Pull up the county property appraiser to see (Ex. Lee County)
+        - Search for the property address
+        - Click Parcel Details
+        - In order to identify the property that was sold to them, go to **Sales/Transactions**
+        - Click the latest under OR Number to make sure it was sold to our prospect
+        - Make sure to put the correct **Years at Address** and **Months At Address**
+- Click Save at the bottom of the page
+- Click Go to Home
+    - General Information
+        - Always tick the **Carrier Answers Prefill**
+    - Select Carriers
+        - Untick Nationwide Insurance (they do not do homeowners in Florida)
+- Click **Policy Info**
+    - Priori Carrier: **Other Standard (**if the client didn’t provide it or if their prior carrier is not on the list)
+    - Expiration Date - Use the information on the Declaration Page or info from the client
+    - Years with Prior Carrier - If in doubt, assume that the latest declaration page is the year with the prior carrier. If you think, it has already been renewed, then put 1 year and count the months up to this day
+    - Years with Continuous Coverage - use the date from the date they purchased the property. Let’s give them the benefit of the doubt and assume that there were no lapses
+    - Credit Check and Other Underwriting Reports Authorized - **YES**
+    - Quote as Package: it depends if you are quoting it with an auto
+    - Effective Date (New Policy) - do not use today’s date, you may put at least 3 weeks from today’s date
+    - Trampoline: 
+    - Swimming Pool
+        - Check it in the County Appraiser
+        - Make sure with the Type and if it’s fenced
+    - Click the **PRE-FILL HOME** at the top
+    - Tick the **I Accept the terms of Usage Agreement,** then Next
+    - You will see the information about the property and you may compare it with the property appraiser, click **Finish**
+- Click **Policy Info**
+- **Add Dwelling Address - Put the Address to avoid errors later**
+    - Dwelling Usage
+    - Occupancy Type
+    - Dwelling Type
+    - Number of Occupants
+    - Number of Stories
+    - Square Footage
+    - Year Built
+    - Construction Style (Ez may always put Contemporary, it’s usually **Ranch** or **Rambler**. You may always look for the info in County Property Appraiser)
+    - Roof Type (Main Material)
+    - Roof Shape
+    - Wind Speed
+        - Log into Citizens
+        - Click **Systems** at the top of the page
+        - Scroll down and you will see **Wind-Only Eligibility**
+        - Put the Property Address and Year Built
+        - Make sure always to tick **Yes**
+        - Then Captcha
+        - Scroll down, and you will see the FBC Wind Speed
+        - You may screenshot the page and post it in your mem for reference
+    - Foundation Type:
+    - Exterior Walls
+    - Number of Baths
+    - Heating Type: **Electric**
+    - Burglar Alarm: **Local**
+    - Dead Bolt: Always
+    - Fire Extinguisher: Always (assuming they have it)
+    - Smoke Detector: Local
+    - Purchase Price
+        - Go to Property Appraiser, under Sales/ Transactions
+    - Purchase Date
+        - Go to Property Appraiser, under Sales/ Transactions
+    - Distance from Fire Stations: **5**
+        - Or, go to Google, enter the address then click Maps
+        - Click **Nearby,** then search Fire station
+    - Feet from Hydrant: **1-500**
+    - Protection Class
+        - Check the screenshot from Citizens
+    - Inside City Limits and Within Fire District
+        - Go to Perplecity AI and you may ask: Is the address: “(complete property address)” within city limits and within the fire district?
+        - Usually, if the property is within city limits, it’s usually within the fire district as well
+    - Update to the House
+        - Always check the County Property Appraiser
+        - Most important is the Water and Roof Update, a lot of insurance carriers in Florida are picky with these
+        - Two important things to ask them are the Roofing Update and the Water Heater Update. With everything that’s going on with the homeowner's insurance market in Florida, a lot of carriers are picky about year the water heater is. If it’s older than 15 years, that cuts down our options substantially. They like new water heaters and tankless water heaters 
+    - Credits Info
+        - Multipolicy Discount - if this is packaged with other policy
+        - Non-Smoker - **Yes**
+        - Mature Discount - the cut-off is 50 or 55
+        - Retirement Community
+            - Go to Perplexity AI, and ask: Is “(complete address), located in a gated community
+        - Visible to Neighbor
+            - Go to Perplexity AI, and ask: Is “(complete address), located in a gated community
+        - Manned Security
+            - Go to Perplexity AI, and ask: Is “(complete address), located in a gated community
+        - Gated Community
+            - Go to Perplexity AI, and ask: Is “(complete address), located in a gated community
+        - Limited Access Community - Yes if Yes for the Gated Community
+            - Go to Perplexity AI, and ask: Is “(complete address), located in a gated community
+    - Secondary Water Resistance - Let’s assume **No**
+    - Inspection Date - put today’s date
+    - Opening Protection - Hurricane (you can see this in Property Appraiser-field cards)
+- Coverage Information
+    - Dwelling - check the Declaration Page if available. If not, then start quoting in [Citizens](https://docs.google.com/document/d/1Bm-fG-kUJZEu4yA5xYPAIWobGifuHMD-Sb2XXatP9Bo/edit#heading=h.x9nrnehlhwvk)
+    - Est. Replacement Cost: Same as the Dwelling Coverage above **(ALWAYS PUT THIS IN MEM) -** Get the information from your quote in Citizens
+        - Sample Only: (this is only applicable if quoting directly on the carrier’s website)
+        - Go to Property Appraiser - Field Cards
+        - Solution: Market Value - Land Value - Land Extra Values = RCE
+    - Personal Property - default
+    - Loss of Use - default
+    - Personal Liability: **$100,000**
+    - Medical Payments: Usually **$5000** (Check the Declaration Page)
+    - All Perils Deductible: **$2,500**
+    - Hurricane Deductible - Usually **2%** (Check the Declaration Page)
+    - Financial Interests Information
+        - Check the Declaration Page
+        - Tick how many mortgagees do they have
+        - Leave it if none
+    - Endorsements
+        - Leave it alone if none
+- Carrier Questions
+    - Olympus Agency Code: **3002750**
+        - Smart Home Water Protection: None
+    - Southern Oak Agent ID: **09317**
+- Click **Finish** then **Submit**
+    - Make sure everything is enabled
+- EzLynx is rating the prospect to the entire insurance companies that we enabled at the beginning of the quote
+- You might see errors such as: (meaning they are not eligible)
+    - Coverage is not available for this property at this time
+    - County Closure is in effect, risk cannot be underwritten.
+    - TILE(CLAY) roofs greater than 15 years old are no longer eligible
+    - At this time we do not have the capacity to write HO3 policies in this area.
+    - Maling Same As Property: The Mailing Address is the same as the Property Address. - This means there is a county closure, they are not doing this particular zip code
+- You may put the Homweoner’s Quote Result Template in your current mem
+## Homweoner’s Quote Result Template
+- Jon has a template, you may cross out the carriers on this template to identify where can we quote the client directly.
+- Always put the proposed premium on the template for all carriers that are left
+- You need to manually quote all Insurance carriers that are not crossed out from the template but might do it for the client, 
+- OLYMPUS INSURANCE - Check the screenshot you took from Citizens and look for the Personal Multiperil Territory
+- CITIZENS - can do almost everybody
+- FEDERATED NATIONAL - Manual quote is needed but unlikely since they are so expensive.
+## Carrier Notes
+- ALLSTATE - not writing new business in Florida. 
+- AMERICAN INTEGRITY - they only bind properties that are 1 year old and newer
+- SEACOAST BROKERS - Those are for multi-unit properties and commercial properties
+- BURNS & WILCOX - If you get them, they are not like a pretty carrier, and it’s kind of a pain in the 😀
+- SWYFT - they do not apply in HO3
+- VYRD - Only accepts $400k coverage
+## Abbreviations 
+- FOP- Finished Open Porch
+- FSP-Finishes Screened Porch
+- PSE - Patio Screened Enclosure
+
+## Things to Note
+- Flood Zone X and X500 - don’t need Flood Policy, the rest is Yes
+- E&S - historic home, home sitting in na islands, anything weird

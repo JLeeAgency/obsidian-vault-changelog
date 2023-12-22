@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "1ec9c84ea0347dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "642da98d93fd1481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eec2b85d39a4fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Records/Vault-Changelog2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3dbc7916e86087",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e473492f1155fc6",
+        "type": "tabs",
+        "dimension": 78.14207650273224,
+        "children": [
+          {
+            "id": "7211463d776a8fb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c7ee5123a758eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6613012036e728ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e7e23c07309201a",
+        "type": "tabs",
+        "dimension": 21.857923497267755,
+        "children": [
+          {
+            "id": "1e61aea825967ef7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Records/Vault-Changelog2.md"
+              }
+            }
+          },
+          {
+            "id": "66d455f48b00c9dc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "492bbc461b4644e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "64cf822e1afa6e2e",
+        "type": "tabs",
+        "dimension": 42.337662337662344,
+        "children": [
+          {
+            "id": "bac6c583f71642de",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d2841eb85d0463",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c321b646f81e35ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "53142c8e9a0bad2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb402948e0612c97",
+        "type": "tabs",
+        "dimension": 57.662337662337656,
+        "children": [
+          {
+            "id": "56a3d98378fd2ea2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "716f07816c7e7cd5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "243a0d0ae92c29fa",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aab87279a9cc7c79",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b23129784afb7f56",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "whisper:Open recording controls": false,
+      "homepage:Open homepage": false,
+      "helpmate:HelpMate": false,
+      "card-board:CardBoard": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1eec2b85d39a4fe4",
+  "lastOpenFiles": [
+    "JL Agency Team Home Base/JLIA Team Home Base.md",
+    "Personal/Records/Vault-Changelog2.md",
+    "versions.json",
+    "tsconfig.json",
+    "rollup.config.js",
+    "resources/demo.png",
+    "resources/demo-embedded.png",
+    "resources",
+    "package.json",
+    "manifest.json",
+    "main.ts",
+    "README.md",
+    "Readwise/Articles/The Todoist Bulletin.md",
+    "Readwise/Articles/Todoist in Obsidian — The Perfect Synergy for Your Task Management System.md",
+    "Readwise/Articles/Insider Builds.md",
+    "Readwise/Articles/Automate Client-Facing Workflows.md",
+    "Readwise/Articles/Quick Daily News & Unclaimed Policy Revenue.md",
+    "Readwise/Articles/I Made a Prompt for a Better Way to Learn Concepts and Topics..md",
+    "Readwise/Articles/Harnessing the Power of Shutdown Rituals.md",
+    "Readwise/Articles",
+    "Readwise",
+    "Clients & Leads/Hughes Cleaning LLC.md",
+    "JL Agency Team Home Base/Updates and Reports/Weekly/W50.md",
+    "Personal/Daily Notes/2023/12-December/2023-12-22-Friday.md",
+    "Personal/Daily Notes/2023/12-December/2023-12-21-Thursday.md",
+    "Clients & Leads/Katelyn's Accounts & Clients.md",
+    "SteamX LLC.md",
+    "Clients & Leads/V Soto.md",
+    "Clients & Leads/S Ngonekeo.md",
+    "Clients & Leads/R Negrillo 🏠🚗.md",
+    "Clients & Leads/MA Delgado.md",
+    "Clients & Leads/M Bellor.md",
+    "Clients & Leads/Leads, Opportunities, and Clients.md",
+    "Clients & Leads/L.A. Legendz Barbershop LLC.md",
+    "Clients & Leads/L Glozik.md",
+    "Clients & Leads/K Lee.md",
+    "BillingHomePageGlossary.pdf",
+    "Personal/Katelyn/Images/Pasted image 20231218120830.png",
+    "Personal/Katelyn/Images/Pasted image 20231215120717.png",
+    "Personal/Katelyn/Images/Pasted image 20231215115422.png",
+    "Pasted image 20231215120717.png",
+    "Pasted image 20231215115422.png",
+    "Personal/Katelyn/Images/20231214 Coterie Appetite.jpg",
+    "20231214 Coterie Appetite 1.jpg",
+    "20231214 Coterie Appetite.jpg",
+    "Untitled.canvas",
+    "JL Agency Team Home Base/Training/Sales Process Map.canvas"
+  ]
+}

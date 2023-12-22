@@ -1,0 +1,22 @@
+{
+  "useAutotagPrefix": true,
+  "useFrontmatterAutotagsKey": false,
+  "tagsFormat": "kebabCase",
+  "checkCostEstimation": false,
+  "showPreUpdateDialog": true,
+  "showPostUpdateDialog": true,
+  "demoMode": true,
+  "writeToLogFile": false,
+  "openaiApiKey": "",
+  "openaiModel": {
+    "id": "gpt-3.5-turbo-1106",
+    "name": "GPT-3.5 Turbo (1106)",
+    "features": [
+      "function-calling"
+    ],
+    "context": 16000,
+    "inputCost1KTokens": 0.001,
+    "outputCost1KTokens": 0.002
+  },
+  "openaiTemperature": 0.2
+}

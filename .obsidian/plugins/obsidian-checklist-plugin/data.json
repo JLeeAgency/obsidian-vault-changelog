@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo",
+  "showChecked": true,
+  "showAllTodos": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "[01] Personal/Daily Notes/2023/11-November/2023-11-28-Tuesday.md",
+    "Personal/Daily Notes/2023/11-November/2023-11-28-Tuesday.md",
+    "Personal/Daily Notes/2023/11-November/2023-11-29-Wednesday.md"
+  ],
+  "_hiddenTags": []
+}

@@ -1,0 +1,21 @@
+---
+created: 2023-12-14T10:47
+updated: 2023-12-14T11:50
+---
+- Not allowed to write property within 25 miles 
+- 2500 or 5% wind/hail deductible
+- Appetite
+	- under 10 employees
+- Dont
+	- Habitation
+	- lessor risk
+	- garage keepers need
+	- church/non profit
+- Credit card for payment (all major)
+	- monthly or annual
+- Manage my risk program
+	- resource based
+	- nobody is evaluating or checking
+	- loss management
+- when writing policy
+	- Receive email to set up bill.com for direct deposit

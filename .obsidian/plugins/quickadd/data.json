@@ -1,0 +1,77 @@
+{
+  "choices": [
+    {
+      "id": "eb77bb54-f77b-4eb1-87e4-a301af76df91",
+      "name": "Absolute Focus Mode",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8e63cc75-cfa8-4882-b283-20dd4cc8a46e"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Absolute Focus Mode",
+      "id": "8e63cc75-cfa8-4882-b283-20dd4cc8a46e",
+      "commands": [
+        {
+          "name": "Ghost Fade Focus: Toggle plugin on/off",
+          "type": "Obsidian",
+          "id": "916fcefe-afa1-487e-9f64-f6af86fda456",
+          "commandId": "ghost-fade-focus:toggle-plugin"
+        },
+        {
+          "name": "Toggle left sidebar",
+          "type": "Obsidian",
+          "id": "57213909-95e4-4195-846e-054c51e970b8",
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "name": "Toggle right sidebar",
+          "type": "Obsidian",
+          "id": "21fef45b-5839-4ce3-9576-d0245ee7e484",
+          "commandId": "app:toggle-right-sidebar"
+        },
+        {
+          "name": "Minimal Theme Settings: Toggle focus mode",
+          "type": "Obsidian",
+          "id": "d139d4f9-8a42-4658-a1dd-141f50822642",
+          "commandId": "obsidian-minimal-settings:toggle-minimal-focus-mode"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "New Note w Create and Modified Date",
+      "id": "a0715c1d-4986-4e57-b0e4-b57496576ddd",
+      "commands": [
+        {
+          "name": "Create new note",
+          "type": "Obsidian",
+          "id": "2439781f-531b-4ca9-b4e1-f7d403daec38",
+          "commandId": "file-explorer:new-file"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "JL Agency Team Home Base/Templates",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

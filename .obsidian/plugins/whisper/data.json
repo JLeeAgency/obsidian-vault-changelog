@@ -1,0 +1,10 @@
+{
+  "apiKey": "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",
+  "apiUrl": "https://api.openai.com/v1/audio/transcriptions",
+  "model": "whisper-1",
+  "language": "en",
+  "saveAudioFile": true,
+  "saveAudioFilePath": "Inbox/Recordings",
+  "createNewFileAfterRecording": true,
+  "createNewFileAfterRecordingPath": "Inbox/Transcriptions"
+}

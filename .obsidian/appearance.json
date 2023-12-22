@@ -1,0 +1,20 @@
+{
+  "accentColor": "#e81747",
+  "theme": "system",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "interfaceFontFamily": "Roboto,Inter",
+  "textFontFamily": "Noto Serif Medium,Georgia",
+  "monospaceFontFamily": "Roboto Mono,Courier New",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "calendar stuff",
+    "No Link Underlines",
+    "Bold Tab Title",
+    "NotoSerif-stylesheet",
+    "stylesheet"
+  ],
+  "showViewHeader": false,
+  "baseFontSizeAction": true
+}

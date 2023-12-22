@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#454545",
+    "recentlyUsedIcons": [
+      "🕰",
+      "📒",
+      "MsListAltFILL0Wght400GRAD0Opsz24",
+      "📓",
+      "🏆"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true
+  },
+  "Personal/Daily Notes/2023/12-December/2023-12-03-Sunday.md": "MsNoteFILL0Wght400GRAD0Opsz24",
+  "JL Agency Team Home Base/JLIA Team Home Base.md": "🏡",
+  "JL Agency Team Home Base": "🌎",
+  "Inbox": "📥",
+  "Clients & Leads": "📇",
+  "Opportunities": "🏆",
+  "Personal": "📓",
+  "Clients & Leads/Katelyn's Accounts & Clients.md": "📒",
+  "Personal/Records/Vault-Changelog2.md": "🕰"
+}

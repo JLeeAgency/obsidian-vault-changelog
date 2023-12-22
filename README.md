@@ -1,3 +1,7 @@
+---
+created: 2023-12-22T11:23
+updated: 2023-12-22T11:23
+---
 # Obsidian Vault Changelog Plugin
 
 This is a simple plugin that maintains a changelog of recently edited files in your vault.

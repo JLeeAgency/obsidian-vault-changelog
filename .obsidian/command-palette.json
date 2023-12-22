@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "periodic-notes:open-daily-note",
+    "templater-obsidian:create-new-note-from-template",
+    "insert-template",
+    "workspace:split-horizontal",
+    "quickadd:choice:eb77bb54-f77b-4eb1-87e4-a301af76df91",
+    "app:open-settings",
+    "tray:relaunch-app"
+  ]
+}
