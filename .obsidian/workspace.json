@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "6bafeb3bc0f5955b",
         "type": "tabs",
         "children": [
           {
             "id": "56debd0e59b96d71",
+=======
+        "id": "91cbd274a5eecbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd11773b0d61e0b2",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,7 +227,11 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< Updated upstream
   "active": "56debd0e59b96d71",
+=======
+  "active": "dd11773b0d61e0b2",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "JL Agency Team Home Base/JLIA Team Home Base.md",
     "Personal/Records/Vault-Changelog2.md",
